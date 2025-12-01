@@ -1,5 +1,11 @@
 # Azure Honeypot Project 🐝
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd970817-9540-4aa6-a7e3-4d89016002f5" width="900">
+</p>
+
+
 Honeypot project in Microsoft Azure to analyze real-world brute-force attacks using **Microsoft Sentinel**. This project simulates a **Security Operations Center (SOC)** and demonstrates threat detection, incident response, and visualization.
 
 ---
